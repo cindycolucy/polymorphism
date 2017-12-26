@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/cynthiacolucy/Documents/default-workspace"/>
+	</list>
+	<section name="CleanDialogSettings">
+		<item value="484" key="DIALOG_WIDTH"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="378" key="DIALOG_HEIGHT"/>
+		<item value="398" key="DIALOG_X_ORIGIN"/>
+		<item value="148" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/cynthiacolucy/Documents/default-workspace/Lesson15"/>
+			<item value="/Users/cynthiacolucy/Documents/default-workspace/Lesson14"/>
+			<item value="/Users/cynthiacolucy/Documents/default-workspace/Lesson13"/>
+			<item value="/Users/cynthiacolucy/Documents/default-workspace/Lesson12"/>
+			<item value="/Users/cynthiacolucy/Documents/default-workspace/Lesson5"/>
+			<item value="/Users/cynthiacolucy/Documents/default-workspace/books/bookpub"/>
+			<item value="/Users/cynthiacolucy/Documents/default-workspace/vending-machine3"/>
+			<item value="/Users/cynthiacolucy/Documents/default-workspace/virtual-pet-shelter"/>
+			<item value="/Users/cynthiacolucy/Documents/default-workspace/virtual-pet"/>
+			<item value="/Users/cynthiacolucy/Documents/default-workspace/testing"/>
+			<item value="/Users/cynthiacolucy/Documents/default-workspace/pbd"/>
+			<item value="/Users/cynthiacolucy/Documents/default-workspace/fortune-teller"/>
+			<item value="/Users/cynthiacolucy/Documents/default-workspace/virtual-pets-amok"/>
+			<item value="/Users/cynthiacolucy/Documents/default-workspace/bowling-game"/>
+			<item value="/Users/cynthiacolucy/Documents/default-workspace/exchange-sort"/>
+			<item value="/Users/cynthiacolucy/Documents/default-workspace/vending-machine"/>
+			<item value="/Users/cynthiacolucy/Documents/default-workspace/babysitter2"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

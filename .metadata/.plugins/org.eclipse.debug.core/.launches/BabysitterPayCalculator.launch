@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/babysitter2/src/main/java/babysitter2/BabysitterPayCalculator.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="babysitter2.BabysitterPayCalculator"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="babysitter2"/>
+</launchConfiguration>
